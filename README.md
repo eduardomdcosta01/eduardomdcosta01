@@ -18,8 +18,3 @@ Olá! Meu nome é Eduardo Magalhães da Costa. Sou estudante de Tecnologia em An
 Nesta seção serão adicionados os projetos e atividades práticas desenvolvidos durante o curso.
 
 - Em breve, serão adicionados novos projetos.
-
-## Contato
-
-- E-mail: eduardo.mdcosta01@gmail.com
-- LinkedIn:  www.linkedin.com/in/eduardo-magalh%C3%A3es-b0bb33270
